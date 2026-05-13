@@ -161,6 +161,14 @@ This does not imply a new physical law. It does, however, suggest that if the Tr
 
 This repository establishes three limited results. First, the scalar-clock record-space toy model reproduces the standard uncertainty floor for the tested profiles. Second, it reproduces the canonical position-momentum commutator numerically. Third, once those standard benchmarks are in place, it reveals a reproducible toy-model separation between minimum uncertainty and maximum concentration-dispersion balance. In the present experiments, Gaussian states remain the minimum-uncertainty states, while overlap-dominated structured records dominate the highest structural balance scores. That separation survives the Phase 4B robustness tests and therefore warrants further toy-model investigation, while remaining well inside a clearly bounded exploratory claim.
 
+## Code and Data Availability
+
+The code, numerical outputs, figures, and reproducibility documentation are available in the public GitHub repository:
+
+https://github.com/genecat/trinity-uncertainty-record-balance
+
+The archived software release is available on Zenodo at DOI: 10.5281/zenodo.20172621.
+
 ## References
 
 - Placeholder for associated preprint.

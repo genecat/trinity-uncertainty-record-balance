@@ -4,6 +4,8 @@ Numerical toy-model tests for the repository and draft paper:
 
 **A Record-Balance Wall in Scalar-Clock Toy Models: Concentration–Dispersion Structure Beyond Minimum Uncertainty**
 
+Software archive DOI: `10.5281/zenodo.20172621`
+
 ## Short Description
 
 This repository studies a 1D scalar-clock record-space toy model in which:
@@ -157,11 +159,21 @@ paper/   manuscript draft, tables, and figure notes
 
 Citation metadata is provided in [CITATION.cff](/Users/eugenecatrambone/trinity-uncertainty-tests/CITATION.cff).
 
-Placeholder citation until DOI assignment:
+## Suggested Citation
+
+```text
+Catrambone, Eugene. A Record-Balance Wall in Scalar-Clock Toy Models:
+Concentration–Dispersion Structure Beyond Minimum Uncertainty.
+trinity-uncertainty-record-balance, 2026.
+Zenodo. https://doi.org/10.5281/zenodo.20172621
+```
+
+Repository and software archive DOI:
 
 ```text
 Catrambone, Eugene. "A Record-Balance Wall in Scalar-Clock Toy Models:
-Concentration–Dispersion Structure Beyond Minimum Uncertainty." 2026. DOI: TBD.
+Concentration–Dispersion Structure Beyond Minimum Uncertainty." 2026.
+DOI: 10.5281/zenodo.20172621.
 ```
 
 Please cite both the repository and the associated preprint when available.
