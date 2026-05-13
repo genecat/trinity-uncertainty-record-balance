@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite both the repository and the associated preprint."
+title: "A Record-Balance Wall in Scalar-Clock Toy Models"
+authors:
+  - family-names: "Catrambone"
+    given-names: "Eugene"
+date-released: 2026-05-13
+doi: "TBD"
+repository-code: "https://github.com/TBD/trinity-uncertainty-record-balance"
+license: "MIT"
