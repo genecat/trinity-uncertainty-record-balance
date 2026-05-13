@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite both the repository and the associated preprint."
+message: "Please cite this software repository with DOI 10.5281/zenodo.20172621 and the associated paper/preprint with DOI 10.5281/zenodo.20172951."
 title: "A Record-Balance Wall in Scalar-Clock Toy Models"
 authors:
   - family-names: "Catrambone"

@@ -1,5 +1,7 @@
 # Reproducibility Notes
 
+Paper/preprint DOI: `10.5281/zenodo.20172951`
+
 Archived software DOI: `10.5281/zenodo.20172621`
 
 The Zenodo-tagged release `v0.1.1` is the archived software snapshot corresponding to DOI `10.5281/zenodo.20172621`. It includes archival metadata updates only and makes no methodological changes relative to `v0.1.0`.

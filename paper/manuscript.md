@@ -1,6 +1,8 @@
 # A Record-Balance Wall in Scalar-Clock Toy Models:
 # Concentration–Dispersion Structure Beyond Minimum Uncertainty
 
+Publication note: Paper/preprint DOI `10.5281/zenodo.20172951`
+
 ## Abstract
 
 We study a one-dimensional scalar-clock record-space toy model designed to test a narrow question: whether a Trinity/STO-style interpretive mapping can remain compatible with standard quantum uncertainty and operator structure while also supporting an additional toy diagnostic of concentration-dispersion balance. The model treats `R(x)` as a record-localization face and `R(k)` as an action-gradient / momentum face, with `p = hbar * k` and `hbar = 1` in the numerical experiments. Phase 1 verifies recovery of the standard Fourier uncertainty floor for Gaussian and non-Gaussian records. Phase 2 introduces structured record-locking profiles, including boundary-locked, overlap, and oscillatory selector states, and shows that they remain above the standard uncertainty floor while generating distinct concentration-dispersion scores. Phase 3 verifies numerical recovery of the canonical commutator `[x_hat, p_hat] psi ≈ i hbar psi`. Phase 4 then sweeps parameterized record families and finds a reproducible separation between minimum-uncertainty states and maximum concentration-dispersion balance states. Gaussian states saturate the Heisenberg floor, but overlap-dominated records produce the highest toy structural balance scores. Phase 4B tests robustness under alternative balance metrics and shows that the overlap-separation family remains dominant under the combined structural score. We emphasize that this is exploratory numerical work on a toy model: it does not derive `hbar` from first principles, replace standard quantum mechanics, or prove Trinity/STO.
@@ -167,7 +169,9 @@ The code, numerical outputs, figures, and reproducibility documentation are avai
 
 https://github.com/genecat/trinity-uncertainty-record-balance
 
-The archived software release is available on Zenodo at DOI: 10.5281/zenodo.20172621.
+Paper/preprint DOI: 10.5281/zenodo.20172951.
+
+Software archive DOI: 10.5281/zenodo.20172621.
 
 ## References
 
